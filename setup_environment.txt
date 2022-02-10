@@ -1,0 +1,7 @@
+#Virtual env
+python3 -m venv pykagglehm                    -> création environnement virtuel
+source ./pykagglehm/bin/activate                  -> activation environnement virtuel
+
+#Package
+pip install --upgrade pip
+
