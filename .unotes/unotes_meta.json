@@ -1,7 +1,33 @@
 {
   "name": "",
   "isOrdered": true,
-  "folders": {},
+  "folders": {
+    "DATA": {
+      "name": "DATA",
+      "isOrdered": true,
+      "folders": {
+        "SOURCE_DATA_FULL": {
+          "name": "SOURCE_DATA_FULL",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "SOURCE_LIMITED_DATA": {
+          "name": "SOURCE_LIMITED_DATA",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    },
+    "pykagglehm": {
+      "name": "pykagglehm",
+      "isOrdered": true,
+      "folders": {},
+      "files": {}
+    }
+  },
   "files": {
     "README": 0
   }

@@ -4,4 +4,4 @@ source ./pykagglehm/bin/activate                  -> activation environnement vi
 
 #Package
 pip install --upgrade pip
-
+pip install pandas
